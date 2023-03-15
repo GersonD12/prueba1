@@ -1,1 +1,1 @@
-hola
+print("Sin errores")
